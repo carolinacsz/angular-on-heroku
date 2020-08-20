@@ -51,20 +51,19 @@ text-decoration: none;
 border-radius: 20px;
 }
 
-.pop-button h4 {
-display: inline-block;
-background-color: #141516;
-font-size: 13px!important;
-padding: 12px 18px;
-color: #fff;
-font-weight: 400!important;
-letter-spacing: 1px;
-text-transform: uppercase;
-text-decoration: none;
-border-radius: 20px;
-cursor: pointer;
-}
-
+.pop-button h4 a {
+  display: inline-block;
+  background-color: #141516;
+  font-size: 13px!important;
+  padding: 12px 18px;
+  color: #fff;
+  font-weight: 400!important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 20px;
+  cursor: pointer;
+  }
 
 .header {
   position: fixed;
@@ -91,7 +90,8 @@ padding: 0px;
 }
 
 .navbar-nav>li>a {
-color: #fff!important;
+
+/* color: #FF9933!important; */
 font-size: 13px;
 font-weight: 300;
 text-transform: uppercase;
@@ -485,6 +485,7 @@ font-size: 15px;
 font-weight: 500;
 padding: 12px 12px;
 background-color: #fff;
+
 }
 
 .tabs a:hover {
