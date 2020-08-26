@@ -47,3 +47,5 @@ Thumbs.db
 
 src/assets/img/blog-bg-test.jpg
 src/assets/img/test.jpg
+dist
+api
