@@ -204,7 +204,7 @@ width: 100%;
   padding-top: 35vh;
   text-align: center;
   /* background-image: url(../img/banner_bg.jpg); */
-  background-color: #f89624;
+  background-color: #b5c3ce;
   vertical-align: middle;
 }
 
@@ -221,7 +221,7 @@ margin-bottom: 45px;
 
 .baner-content .text-content h2 span {
 font-weight: 700;
-color: #fff!important;
+color: #000!important;
 
 }
 
@@ -233,7 +233,7 @@ color: #f89624!important;
 }
 
 .baner-content .text-content p {
-color: #fff;
+color: #000;
 font-size: 17px;
 line-height: 24px;
 padding: 0px 25%;
